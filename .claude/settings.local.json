@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/Scripts/python.exe -m py_compile app.py yolo_detector.py train_yolo.py)"
+    ]
+  }
+}

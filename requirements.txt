@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+matplotlib
+pillow
+requests
+openpyxl
+torch
+torchvision
+transformers
+openai
+# YOLO 객체 탐지
+ultralytics
+opencv-python
+# 사전학습 재활용품 탐지 모델 다운로드 (Roboflow API 키 불필요)
+huggingface_hub
+roboflow
